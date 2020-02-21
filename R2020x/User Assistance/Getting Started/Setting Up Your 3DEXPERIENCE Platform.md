@@ -1,0 +1,1 @@
+- Member 초대, Platform 구성은 Members Control Center에서 처리
